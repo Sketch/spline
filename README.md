@@ -100,7 +100,7 @@ You may have noticed that the "About" and "Contact" pages are blank. Let's fix t
 ```markdown
 Title: About
 
-This site was made possible thanks to Spline, developped by Eevee and available on [Github](https://github.com/eevee/spline).
+This site was made possible thanks to Spline, developed by Eevee and available on [Github](https://github.com/eevee/spline).
 ```
 In the reason box, write ```Initial version```.
 
