@@ -15,20 +15,9 @@ As a secondary goal, it should be easy to spin up a trivial new website, without
 
 Use apt or your favorite package installer to get these:
 
-- python3 (I assume 3.4)
-- python3-dev
-- gcc
-- git
-- imagemagick
-- libgit2-22 (Warning: this is in unstable in Debian, do not install libgit2-21 instead, pygit2 will fail to install if you do)
-- libgit2-dev
-- libffi-dev
-- libxslt1-dev
-- libxml2-dev
-- postgresql
-- postgresql-client
-- libpq-dev
-- python3-pip
+```python3 python3-dev gcc git imagemagick libgit2-24 libgit2-dev libffi-dev libxslt1-dev libxml2-dev postgresql postgresql-client libpq-dev python3-pip```
+
+Other versions of libgit2-24 (such as libgit2-23) will work. On Debian, do not install libgit2-21: pygit2 will fail to install if you do.  The following guide assumes Python 3.4.
 
 On Ubuntu, there is an extra step:
 ```
