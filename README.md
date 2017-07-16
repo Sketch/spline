@@ -41,10 +41,6 @@ source bin/activate
 We'll start with a skin so you have something to look at
 ```git clone https://github.com/eevee/floraverse_com```
 
-### SCSS files
-
-```git clone https://github.com/eevee/archetype archetype.git```
-
 ## Prep the DB
 
 First we'll create a new user
