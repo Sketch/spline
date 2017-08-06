@@ -34,7 +34,7 @@ source bin/activate
 
 ### Spline
 
-```git clone https://github.com/eevee/spline --recursive-submodules```
+```git clone https://github.com/eevee/spline --recurse-submodules```
 
 ### Floraverse
 
